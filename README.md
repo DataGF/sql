@@ -2,7 +2,7 @@
 
 ## THE IMPORTANCE OF DATA AND SQL BASICS
 
-### Create a Table
+### Project 1 - Create a Table
 
 In this project, I created a table and add/delete data from it!
 
