@@ -1,9 +1,6 @@
-# sql
+# SQL
 
-## THE IMPORTANCE OF DATA AND SQL BASICS
+![image](https://i.imgur.com/jvJ5Irm.png)
 
-### Project 1 - Create a Table
-
-In this project, I created a table and add/delete data from it!
-
-Feel free to add more columns, insert more data, and create more tables to train even more.
+1. [Initial Project](https://github.com/DataGF/sql/blob/master/initial-project.sqlite)
+2. [World Populations SQL Practice](https://github.com/DataGF/sql/blob/master/world-population-sql-practice.sqlite)
